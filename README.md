@@ -6,7 +6,7 @@ This project demonstrates the implementation of an end-to-end data engineering p
 **Project Steps**
 **1.	Resource Group Creation:** Initiated by creating a resource group in the Azure portal.
 **2.	Storage Account Setup:** Established a storage account service with a hierarchical namespace, creating a Data Lake within the resource group.
-**3.	Azure Data Factory Deployment:** Created an Azure Data Factory service within the resource group to facilitate data integration and transformation.
+**3.	Azure Data Factory Deployment:** Created an Azure Data Factory service within the resource group to facilitate data integration and transformation. 
 **4.	Container Creation:** Set up three containers in the Data Lake:
      o	Bronze
      o	Silver
