@@ -1,6 +1,6 @@
 # Azure End-to-End Data Engineering Project
 
-##**Overview**
+##Overview
 This project demonstrates the implementation of an end-to-end data engineering pipeline using sales data. The tools utilized include Azure Data Factory, Azure Databricks, Azure SQL Database, and Azure Data Lake. The architecture follows the medallion approach, which organizes data into three distinct layers: Bronze, Silver, and Gold.
 
 ##**Project Steps**
